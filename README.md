@@ -10,4 +10,4 @@
 The user input looks as follows:
 ![Screenshot from 2025-02-10 16-15-02](https://github.com/user-attachments/assets/37a1b7a8-32c1-4060-a46f-ab702caca5f8)
 - A template needle path surface mesh is given as 'CryoTemplate_NeedleP.vtk' This one should be registerd with the z-frame.
-- 
+- The steps can be executed from top to bottom
